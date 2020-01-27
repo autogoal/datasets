@@ -1,4 +1,5 @@
 {
+  "shuttle":"https://github.com/autogoal/datasets/releases/download/yeast-v1/yeast.zip",
   "yeast":"https://github.com/autogoal/datasets/releases/download/yeast-v1/yeast.zip",
   "gisette":"https://github.com/autogoal/datasets/releases/download/gisette-v1/gisette.zip",
   "dorothea":"https://github.com/autogoal/datasets/releases/download/dorothea-v1/dorothea.zip",
