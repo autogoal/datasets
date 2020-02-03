@@ -7,5 +7,6 @@
   "meddocan_2018": "https://github.com/autogoal/datasets/releases/download/meddocan-2018-v1/meddocan_2018.zip",
   "haha_2019": "https://github.com/autogoal/datasets/releases/download/haha-2019-v1/haha_2019.zip",
   "uci_cars": "https://github.com/autogoal/datasets/releases/download/uci-cars-v1/uci_cars.zip",
-  "german_credit": "https://github.com/autogoal/datasets/releases/download/german-credit-v1/german_credit.zip"
+  "german_credit": "https://github.com/autogoal/datasets/releases/download/german-credit-v1/german_credit.zip",
+  "wine_quality": "https://github.com/autogoal/datasets/releases/download/wine-quality-v1/wine_quality.zip"
 }
