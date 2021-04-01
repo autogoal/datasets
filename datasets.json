@@ -1,14 +1,15 @@
 {
-  "shuttle":"https://github.com/autogoal/datasets/releases/download/shuttle-v1/shuttle.zip",
-  "yeast":"https://github.com/autogoal/datasets/releases/download/yeast-v1/yeast.zip",
-  "gisette":"https://github.com/autogoal/datasets/releases/download/gisette-v1/gisette.zip",
-  "dorothea":"https://github.com/autogoal/datasets/releases/download/dorothea-v1/dorothea.zip",
-  "abalone":"https://github.com/autogoal/datasets/releases/download/abalone-v1/abalone.zip",
+  "shuttle": "https://github.com/autogoal/datasets/releases/download/shuttle-v1/shuttle.zip",
+  "yeast": "https://github.com/autogoal/datasets/releases/download/yeast-v1/yeast.zip",
+  "gisette": "https://github.com/autogoal/datasets/releases/download/gisette-v1/gisette.zip",
+  "dorothea": "https://github.com/autogoal/datasets/releases/download/dorothea-v1/dorothea.zip",
+  "abalone": "https://github.com/autogoal/datasets/releases/download/abalone-v1/abalone.zip",
   "meddocan_2018": "https://github.com/autogoal/datasets/releases/download/meddocan-2018-v1/meddocan_2018.zip",
   "haha_2019": "https://github.com/autogoal/datasets/releases/download/haha-2019-v1/haha_2019.zip",
   "uci_cars": "https://github.com/autogoal/datasets/releases/download/uci-cars-v1/uci_cars.zip",
   "german_credit": "https://github.com/autogoal/datasets/releases/download/german-credit-v1/german_credit.zip",
   "wine_quality": "https://github.com/autogoal/datasets/releases/download/wine-quality-v1/wine_quality.zip",
   "cifar10": "https://github.com/autogoal/datasets/releases/download/cifar10-v1/cifar10.zip",
-  "mnist": "https://github.com/autogoal/datasets/releases/download/mnist-v1/mnist.zip"
+  "mnist": "https://github.com/autogoal/datasets/releases/download/mnist-v1/mnist.zip",
+  "movie_reviews": "https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/movie_reviews.zip"
 }
