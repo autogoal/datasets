@@ -11,5 +11,6 @@
   "wine_quality": "https://github.com/autogoal/datasets/releases/download/wine-quality-v1/wine_quality.zip",
   "cifar10": "https://github.com/autogoal/datasets/releases/download/cifar10-v1/cifar10.zip",
   "mnist": "https://github.com/autogoal/datasets/releases/download/mnist-v1/mnist.zip",
-  "movie_reviews": "https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/movie_reviews.zip"
+  "movie_reviews": "https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/movie_reviews.zip",
+  "imdb_50k_movie_reviews": "https://github.com/autogoal/datasets/releases/download/imdb_50k_movie_reviews_v1/imdb_50k_movie_reviews.zip"
 }
