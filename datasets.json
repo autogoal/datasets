@@ -15,5 +15,8 @@
   "imdb_50k_movie_reviews": "https://github.com/autogoal/datasets/releases/download/imdb_50k_movie_reviews_v1/imdb_50k_movie_reviews.zip",
   "semeval_2023_t8.1": "https://github.com/autogoal/datasets/releases/download/semeval-2023-task-8.1/semeval_2023_t8.1.zip",
   "intentsemo": "https://github.com/autogoal/datasets/releases/download/intentsemo/intentsemo.zip",
-  "sst2": "https://github.com/autogoal/datasets/releases/download/sst2-v1/sst2.zip"
+  "sst2": "https://github.com/autogoal/datasets/releases/download/sst2-v1/sst2.zip",
+  "ag_news": "https://github.com/autogoal/datasets/releases/download/ag-news-v1/ag_news.zip",
+  "amazon_reviews": "https://github.com/autogoal/datasets/releases/download/amazon-reviews-v1/amazon_review.zip",
+  "dbpedia": "https://github.com/autogoal/datasets/releases/download/dbpedia-v1/dbpedia.zip"
 }
