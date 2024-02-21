@@ -14,5 +14,6 @@
   "movie_reviews": "https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/movie_reviews.zip",
   "imdb_50k_movie_reviews": "https://github.com/autogoal/datasets/releases/download/imdb_50k_movie_reviews_v1/imdb_50k_movie_reviews.zip",
   "semeval_2023_t8.1": "https://github.com/autogoal/datasets/releases/download/semeval-2023-task-8.1/semeval_2023_t8.1.zip",
-  "intentsemo": "https://github.com/autogoal/datasets/releases/download/intentsemo/intentsemo.zip"
+  "intentsemo": "https://github.com/autogoal/datasets/releases/download/intentsemo/intentsemo.zip",
+  "sst2": "https://github.com/autogoal/datasets/releases/download/sst2-v1/sst2.rar"
 }
