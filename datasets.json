@@ -20,5 +20,6 @@
   "amazon_reviews": "https://github.com/autogoal/datasets/releases/download/amazon-reviews-v1/amazon_review.zip",
   "dbpedia": "https://github.com/autogoal/datasets/releases/download/dbpedia-v1/dbpedia.zip",
   "rotten_tomatoes": "https://github.com/autogoal/datasets/releases/download/rotten-tomatoes-v1/rotten_tomatoes.zip",
-  "yelp_reviews": "https://github.com/autogoal/datasets/releases/download/yelp-full-v1/yelp-reviews.zip"
+  "yelp_reviews": "https://github.com/autogoal/datasets/releases/download/yelp-full-v1/yelp-reviews.zip",
+  "intentes": "https://github.com/autogoal/datasets/releases/download/intentes/intentes.zip"
 }
