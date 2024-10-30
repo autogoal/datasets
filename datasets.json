@@ -21,5 +21,6 @@
   "dbpedia": "https://github.com/autogoal/datasets/releases/download/dbpedia-v1/dbpedia.zip",
   "rotten_tomatoes": "https://github.com/autogoal/datasets/releases/download/rotten-tomatoes-v1/rotten_tomatoes.zip",
   "yelp_reviews": "https://github.com/autogoal/datasets/releases/download/yelp-full-v1/yelp-reviews.zip",
-  "intentes": "https://github.com/autogoal/datasets/releases/download/intentes/intentes.zip"
+  "intentes": "https://github.com/autogoal/datasets/releases/download/intentes/intentes.zip",
+  "liar": "https://github.com/autogoal/datasets/releases/download/liar-liar-pants-on-fire/liar.zip"
 }
