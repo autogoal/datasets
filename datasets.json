@@ -23,5 +23,6 @@
   "yelp_reviews": "https://github.com/autogoal/datasets/releases/download/yelp-full-v1/yelp-reviews.zip",
   "intentes": "https://github.com/autogoal/datasets/releases/download/intentes/intentes.zip",
   "liar": "https://github.com/autogoal/datasets/releases/download/liar-liar-pants-on-fire/liar.zip",
-  "meld": "https://github.com/autogoal/datasets/releases/download/meld/meld.zip"
+  "meld": "https://github.com/autogoal/datasets/releases/download/meld/meld.zip",
+  "squad": "https://github.com/autogoal/datasets/releases/download/squad-v1/squad.zip"
 }
