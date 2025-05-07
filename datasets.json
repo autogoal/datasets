@@ -24,5 +24,6 @@
   "intentes": "https://github.com/autogoal/datasets/releases/download/intentes/intentes.zip",
   "liar": "https://github.com/autogoal/datasets/releases/download/liar-liar-pants-on-fire/liar.zip",
   "meld": "https://github.com/autogoal/datasets/releases/download/meld/meld.zip",
-  "squad": "https://github.com/autogoal/datasets/releases/download/squad-v1/squad.zip"
+  "squad": "https://github.com/autogoal/datasets/releases/download/squad-v1/squad.zip",
+  "cnn-dailymail": "https://github.com/autogoal/datasets/releases/download/cnn-dailymail/cnn_dailymail.zip"
 }
